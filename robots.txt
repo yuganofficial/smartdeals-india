@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuganofficial.github.io/smartdeals-india/sitemap.xml
