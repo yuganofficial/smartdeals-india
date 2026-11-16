@@ -1,5 +1,7 @@
 # SmartDeals India — Affiliate E-commerce Website
 
+**🛒 LIVE SITE: https://yuganofficial.github.io/smartdeals-india/** — best Amazon, Flipkart & Meesho deals, handpicked with buying guides.
+
 Amazon + Flipkart + Meesho affiliate deals site. Pure HTML/CSS/JS — fast, mobile-first, SEO-optimized.
 
 ## Files
